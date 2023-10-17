@@ -1,0 +1,29 @@
+.contact{
+    height: 90vh;
+}
+.contact>h1{
+    color:#2c3e50;
+    font-weight: 700 !important;
+}
+.star{
+    color: #2c3e50;
+}
+.inputForm{
+    width: 85% !important;
+}
+
+.btnForm{
+    background-color: #1abc9c !important;
+    border:none !important;
+
+}
+.userColor{
+    color: #1abc9f;
+    display: flex;
+    justify-content: flex-start;
+    width: 82%;
+}
+.inputColor{
+    color: #1abc9c;
+    width: 83%;
+}
